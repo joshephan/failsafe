@@ -1,5 +1,7 @@
 # Failsafe
 
+![failsafe](https://github.com/user-attachments/assets/ef13c8da-cc43-4625-b6b6-9578abe43ed8)
+
 A Python module that executes a callback script if a password is not entered within a specified time interval. This security feature acts as a failsafe mechanism to protect sensitive systems and data.
 
 ## Features
